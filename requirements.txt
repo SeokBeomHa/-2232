@@ -1,1 +1,1 @@
-discord.py
+DisCord.py
